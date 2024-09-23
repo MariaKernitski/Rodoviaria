@@ -1,4 +1,4 @@
-import passenger from "../../database/models/passageiros_model";
+import passenger from "../../database/models/passageiros_model.js";
 
 const store = async (req, res) => {
   try {
